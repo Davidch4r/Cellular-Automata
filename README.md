@@ -2,8 +2,6 @@
 
 Fully customizable filter, rate, size, and activation function in Main.java
 
-# Example initialization
-
 # Filter
       float[][] filter = {
           {0.3f, 0.2f, -0.3f}, 

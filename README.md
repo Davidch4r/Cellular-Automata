@@ -29,3 +29,5 @@ Parameters can be as follows:
 - ratio (percent of board to be filled)
 - width
 - height
+- filter
+- Activation class (should not be changed in the parameter)
